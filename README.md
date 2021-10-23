@@ -1,2 +1,2 @@
 # Arduino
-Just a recap with arduino.. I'm practicing old stuff y'all
+Just a recap with arduino.. I'm practicing old stuff
